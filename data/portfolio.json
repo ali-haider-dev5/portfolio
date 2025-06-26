@@ -17,34 +17,41 @@
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/ali-haider-56a293178/"
+      "link": "https://www.linkedin.com/in/ali-haider-web"
     },
     { "id": "3", "title": "Email", "link": "alihaider8500@gmail.com" }
   ],
   "projects": [
     {
       "id": "1",
+      "title": "Flyzone.ai",
+      "description": "Web Design Api Integration ",
+      "imageSrc": "/portfolio/flyzone.jpg",
+      "url": "https://flyzone.ai/"
+    },
+    {
+      "id": "2",
       "title": "Qbatch offical Site",
-      "description": "Web Design",
+      "description": "Web Design Attach cms(strapi)",
       "imageSrc": "/portfolio/qbatch-site.png",
       "url": "https://qbatch.com/"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "Sales Support",
       "description": "Web Development",
       "imageSrc": "/portfolio/sales_support.png",
       "url": "https://sales.support/"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "Brief Adler",
-      "description": "Web Development",
+      "description": "Web Development Api Integration",
       "imageSrc": "/portfolio/breif_adler.png",
       "url": "https://app.brief-adler.de/products"
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "Aalgox capital",
       "description": "Web Development",
       "imageSrc": "/portfolio/algox.capital.png",
@@ -80,10 +87,24 @@
     "experiences": [
       {
         "id": "1",
-        "dates": "June - Present",
+        "dates": "April  - Present",
         "type": "Full Time",
-        "position": "Frontend Engineer at Qbatch",
-        "bullets": "Produced websites compatible with multiple browsers., Optimized applications for speed and scalability"
+        "position": "TeamLead Software Engineer at CyberGen",
+        "bullets": "Built scalable, resilient systems from concept to deployment.Optimized dev processes, significantly boosting team productivity."
+      },
+          {
+        "id": "2",
+        "dates": "Jun 2025 - March 2025",
+        "type": "Full Time",
+        "position": "TeamLead Frontend Engineer at Voltic.Inc",
+        "bullets": "Optimized dev processes, significantly boosting team productivity. "
+      },
+      {
+        "id": "3",
+        "dates": "April 2020 - July 2024",
+        "type": "Full Time",
+        "position": "Senior Frontend Engineer at Qbatch",
+        "bullets": "Translated complex UX designs into intuitive, high-performance, and accessible user interfaces that boosted user engagement."
       },
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
@@ -97,7 +118,7 @@
       "universityName": "Govt College University Faisalabad ",
       "universityDate": "2014-2018"
     },
-    "languages": ["Javascript", "HTML5", "CSS3", "React"],
+    "languages": ["Javascript", "HTML5", "CSS3", "React","Node Js","Monogo DB"],
     "frameworks": ["React", "React Bootstrap", "Material ui","Ant design","Tailwind Css","Gatsby"],
     "others": ["Figma", "Styled Component", "Strapi","Graphql"]
   }
