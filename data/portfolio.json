@@ -2,7 +2,7 @@
   "name": "Ali ",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Ali Haider - curious",
-  "headerTaglineThree": "Front End devloper",
+  "headerTaglineThree": "Senior Front End developer",
   "headerTaglineFour": " based in Lahore, Pakistan.",
   "showCursor": true,
   "showBlog": false,
@@ -36,22 +36,43 @@
       "imageSrc": "/portfolio/qbatch-site.png",
       "url": "https://qbatch.com/"
     },
-    {
+       {
       "id": "3",
+      "title": "Tobacco Theme",
+      "description": "Web and Mobile Design ",
+      "imageSrc": "/portfolio/tabbacoo.png",
+      "url": "https://tobacco-theme.vercel.app/"
+    },
+         {
+      "id": "4",
+      "title": "Coffee Theme",
+      "description": "Web development ",
+      "imageSrc": "/portfolio/coffee-theme.png",
+      "url": "https://points-landing-website.vercel.app/"
+    },
+          {
+      "id": "5",
+      "title": "New Birth Labs",
+      "description": "Web development ",
+      "imageSrc": "/portfolio/new-birthLabs.png",
+      "url": "https://www.newbirthlabs.com/home"
+    },
+    {
+      "id": "6",
       "title": "Sales Support",
       "description": "Web Development",
       "imageSrc": "/portfolio/sales_support.png",
       "url": "https://sales.support/"
     },
     {
-      "id": "4",
+      "id": "7",
       "title": "Brief Adler",
       "description": "Web Development Api Integration",
       "imageSrc": "/portfolio/breif_adler.png",
       "url": "https://app.brief-adler.de/products"
     },
     {
-      "id": "5",
+      "id": "8",
       "title": "Aalgox capital",
       "description": "Web Development",
       "imageSrc": "/portfolio/algox.capital.png",
@@ -78,9 +99,14 @@
       "id": "4",
       "title": "Responsive Web Application",
       "description": "I build responsive web applications that deliver seamless user experiences across all devices, from desktops to smartphones. Using modern front-end technologies like HTML5, CSS3, JavaScript, and frameworks like React, I ensure that every application adapts fluidly to different screen sizes and resolutions without compromising on performance or design"
+    },
+    {
+      "id": "5",
+      "title": "Api Integration",
+      "description": "I architect and integrate reliable APIs—REST or GraphQL—to connect your product with third-party services and internal systems. From authentication (OAuth2/JWT), validation, and pagination to caching, retries, and rate limiting, I build integrations that are secure, scalable, and fast. I also provide clean documentation (OpenAPI/Swagger), robust error handling, and monitoring so your team can maintain and extend the integration with confidence."
     }
   ],
-  "aboutpara": "With my expertise in HTML, CSS, and JavaScript, I am able to seamlessly transform static mockups into fully functional and responsive websites. My attention to detail and eye for design ensures that every project I work on is not only pixel-perfect but also intuitive and user-friendly. Let's bring your designs to life!",
+  "aboutpara": "With expertise in HTML, CSS, and JavaScript, I turn static mockups into fully functional, responsive websites. I craft modern UIs with React and Next.js, and build reliable, data-driven features using Node.js with MongoDB (Mongoose). My attention to detail ensures pixel-perfect, accessible, and high-performance experiences. Let’s bring your ideas to life!",
   "resume": {
     "tagline": "👋  I'm a frontEnd developer.",
     "description": "I have delivered world-class user Products to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
@@ -105,21 +131,14 @@
         "type": "Full Time",
         "position": "Senior Frontend Engineer at Qbatch",
         "bullets": "Translated complex UX designs into intuitive, high-performance, and accessible user interfaces that boosted user engagement."
-      },
-      {
-        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-        "dates": "March 2019 - March 2020",
-        "type": "Full Time",
-        "position": "Frontend Engineer at BrainPlow",
-        "bullets": "earn and master additional tools for efficient front-end development, Participate in code reviews to receive and provide feedback on front-end code quality."
       }
     ],
     "education": {
       "universityName": "Govt College University Faisalabad ",
       "universityDate": "2014-2018"
     },
-    "languages": ["Javascript", "HTML5", "CSS3", "React","Node Js","Monogo DB"],
-    "frameworks": ["React", "React Bootstrap", "Material ui","Ant design","Tailwind Css","Gatsby"],
+    "languages": ["Javascript", "HTML5", "CSS3", "React","Next js","Strapi","Payload Cms","Node Js","Mongoose DB"],
+    "frameworks": ["React", "Tailwind Css", "Material ui","Ant design","Gatsby","GSAP"],
     "others": ["Figma", "Styled Component", "Strapi","Graphql"]
   }
 }
